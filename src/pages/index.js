@@ -15,7 +15,7 @@ export default function Home() {
         </h1>
 
         <p className="description">
-          <Link href="https://www.lullabot.com/about/sally-young">justafish</Link>
+          <Link href="https://www.linkedin.com/in/sally-justafish/">justafish</Link>
         </p>
       </main>
 
